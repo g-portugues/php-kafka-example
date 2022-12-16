@@ -7,6 +7,7 @@ Neste projeto também foi desenvolvido um mecanismo de retentativa de consumo e,
 
  - [PHP Rdkafka](https://arnaud.le-blanc.net/php-rdkafka-doc/phpdoc/book.rdkafka.html)
  - [Kafka](https://kafka.apache.org/documentation)
+ - [Fonte](https://www.youtube.com/watch?v=7ZrGVpExBHU)
 
 ## Run
 
