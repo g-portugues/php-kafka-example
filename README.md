@@ -35,6 +35,8 @@ Execute o seguinte comando para consultar o consumo do grupo no tópico:
 docker-compose exec kafka kafka-consumer-groups --describe --group group-test --bootstrap-server kafka:9092
 ```
 
+Para acessar o Control Center da Conluent para gerenciar o cluster do Kafka: http://localhost:9021/
+
 Caso faça alguma modificação nos scripts PHP com o container rodando, execute os seguintes comandos para restartar o container da aplicação:
 
 ```
